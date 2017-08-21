@@ -1,10 +1,10 @@
-h1, h2, h3, .pricing {
+html {
     font-family: Helvetica;
-    font-weight: bold;  
 }
 
-p {
-    font-family: Helvetica;
+h1, h2, h3, .pricing {
+    
+    font-weight: bold;  
 }
 
 h1 {
@@ -24,14 +24,14 @@ h2 {
     color: blue;
 }
 
-#brushes {
+#brushes h2 {
     background-color: mediumspringgreen;
 }
 
-#frames {
+#frames h2 {
     background-color: lightcoral;
 }
 
-#paint {
+#paint h2 {
     background-color: skyblue;
 }
